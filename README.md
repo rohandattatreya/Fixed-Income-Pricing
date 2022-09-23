@@ -1,3 +1,3 @@
 # Project Repository
 
-Random collection of projects. 
+## Collection of projects. 
